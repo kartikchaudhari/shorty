@@ -8,8 +8,8 @@
 	$lang['common_form_elements_go_back']=" Go Back";
 	$lang['common_form_elements_submission_error']="There were errors occurred while submitting form ";
 	
-	$lang['common_form_elements_success_notify']="Form Submitted Successfully";
-	$lang['common_form_elements_']=" ";
+	$lang['common_form_elements_success_notify']="Success..";
+	$lang['common_form_elements_error_notify']="Error..";
 	
 	$lang['common_form_elements_actions']="Actions";
 	$lang['common_form_elements_action_edit']="Edit";
@@ -28,5 +28,18 @@
 	
 	$lang['common_form_elements_from']="Form";
 	$lang['common_form_elements_history']="History";
+
+
+	//general
+	$lang['system_system_name']='Short.y';
+
+	//encode
+	$lang['encode_instruction_l']="Enter a URL in a textbox below and we'll shorten it.";
+	$lang['encode_encode_now']="Shorten Now";
+	$lang['encode_encode_now_succes']="Your URL successfully shortened - check it below";
+	$lang['encode_encode_now_error']="We could not shorten your URL,see below for why";
+	$lang['encode_type_url_here']="Write the URL here";
+	$lang['create_url_address']="Write the URL here";
+	$lang['encode_encoded_url']="Hey look at this, your shortened URL is:";
 
 ?>
